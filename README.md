@@ -2,7 +2,7 @@
 
 ## How to run
 
-Install requeirements using
+Install requirements using
 
 ```
 pip install -r requirements.txt
