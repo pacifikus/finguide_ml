@@ -1,4 +1,4 @@
-# transaction_ml
+# finguide_ml
 
 ## How to run
 
